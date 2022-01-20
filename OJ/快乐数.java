@@ -1,5 +1,8 @@
 package OJ;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Created with IntelliJ IDEA.
  * Description:
